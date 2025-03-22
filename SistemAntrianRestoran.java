@@ -133,7 +133,7 @@
      }
  }
  
- public class RestaurantQueueSystem {
+ public class SistemAntrianRestoran {
      public static void main(String[] args) {
          Scanner scanner = new Scanner(System.in);
          CustomerQueue queue = new CustomerQueue();
